@@ -7,9 +7,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import edu.ycp.cs320.ms1.controller.NumbersController;
-import edu.ycp.cs320.ms1.model.Numbers;
-
 public class SignUpServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
